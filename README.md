@@ -1,7 +1,6 @@
 # load-balancer-demo
 
-### Three Different language Servers
-### Refresh to see difference
+### Three Different Servers
 ```
 docker-compose up --build
 ```
