@@ -1,10 +1,10 @@
 # load-balancer-demo
 
-### Three Servers
-
+### Three Different language Servers
+### Refresh to see difference
 ```
 docker-compose up --build
 ```
 
 ### Open in Browser
-http://localhost:7070
+http://localhost
